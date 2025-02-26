@@ -1,1 +1,2 @@
 https://docs.expo.dev/workflow/ios-simulator/
+You can also press shift + i in the Expo CLI to interactively select a simulator to open.
